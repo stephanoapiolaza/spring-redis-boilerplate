@@ -25,7 +25,6 @@ public class RedisBoilerplateApplication {
 		return args -> {
 			MockRepository mockRepository = ctx.getBean(MockRepository.class);
 			log.debug("Data result {}",mockRepository.findAll().toString());
-			log.debug("Data result {}",mockRepository.findAll().toString());
 		};
 	}
 
