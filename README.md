@@ -6,7 +6,7 @@
 
 <hr/>
 
-<p> Validate in detail every concepts of the spring cache with integration redis. </p>
+<p> Validate in detail every concepts of the spring cache with redis integration. </p>
 
 <h3> Download & Installation </h3>
 
